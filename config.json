@@ -1,6 +1,17 @@
 {
     "title":"腻",
-    "subTitle":"关山难越",
+    "subTitle":"关山难越，谁悲失路之人。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "displayTitle":"腻的个人随笔",
+    "homeUrl":"https://JuneH21.github.io/zhuhuan/",
+    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "email":"adam_west@163.com",
+    "startSiteDate":"2026-01-17",
+    "utterancesLLM":"github-light",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_praise",
+    "lineChart":"true",
+    "pageMode":"onepage"
 }
