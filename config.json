@@ -1,11 +1,10 @@
 {
     "title": "腻",
     "subTitle": "关山难越，谁悲失路之人",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/你的GitHub用户ID",   // 替换成你自己的GitHub头像，或者用网络上好看的图
+    "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",   // 替换成你自己的GitHub头像，或者用网络上好看的图
     // "avatarUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",  
     "GMEEK_VERSION": "last",
 
-    // 以下是美化+实用增强推荐（可选添加）
     "homePage": "关山难越",                     // 首页大标题下的小字（可留空）
     "startDate": "2025-01-01",                   // 网站运行天数统计从这天开始算
     "footer": "© 腻 | 关山难越，谁悲失路之人",   // 页脚版权文字
