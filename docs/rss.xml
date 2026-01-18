@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>腻</title><link>https://JuneH21.github.io/zhuhuan/</link><description>关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。</description><copyright>腻</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/JuneH21.png</url><title>avatar</title><link>https://JuneH21.github.io/zhuhuan/</link></image><lastBuildDate>Sat, 17 Jan 2026 13:30:07 +0000</lastBuildDate><managingEditor>腻</managingEditor><ttl>60</ttl><webMaster>腻</webMaster><item><title>it's a test</title><link>https://JuneH21.github.io/zhuhuan//post/it%27s%20a%20test.html</link><description>test1童话是一种生活态度，仅此而已。</description><guid isPermaLink="true">https://JuneH21.github.io/zhuhuan//post/it%27s%20a%20test.html</guid><pubDate>Sat, 17 Jan 2026 13:07:01 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>腻</title><link>https://JuneH21.github.io/zhuhuan/</link><description>关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。</description><copyright>腻</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/JuneH21.png</url><title>avatar</title><link>https://JuneH21.github.io/zhuhuan/</link></image><lastBuildDate>Sun, 18 Jan 2026 08:10:45 +0000</lastBuildDate><managingEditor>腻</managingEditor><ttl>60</ttl><webMaster>腻</webMaster><item><title>学习笔记 2026/1/18</title><link>https://JuneH21.github.io/zhuhuan//post/xue-xi-bi-ji-%202026-1-18.html</link><description>**cnn初步认识：**
+****
+阅读文章：https://poloclub.github.io/cnn-explainer/
+ #****
+
+&gt; 输入层（input）
+输入数据
+
+&gt; 卷积层（convolution layer）
+&lt;img width='468' height='243' alt='Image' src='https://github.com/user-attachments/assets/23925186-4b38-4e03-8ed4-07d3789e6fd0' /&gt;
+
+1. 卷积层是 CNN 的基础，因为它们包含了学习到的核（权重），这些核能提取区分不同图像的特征
+2. 卷积神经元对应的核和前一层对应神经元的输出进行元素逐元素的点积。</description><guid isPermaLink="true">https://JuneH21.github.io/zhuhuan//post/xue-xi-bi-ji-%202026-1-18.html</guid><pubDate>Sun, 18 Jan 2026 08:10:17 +0000</pubDate></item><item><title>it's a test</title><link>https://JuneH21.github.io/zhuhuan//post/it%27s%20a%20test.html</link><description>test1童话是一种生活态度，仅此而已。</description><guid isPermaLink="true">https://JuneH21.github.io/zhuhuan//post/it%27s%20a%20test.html</guid><pubDate>Sat, 17 Jan 2026 13:07:01 +0000</pubDate></item></channel></rss>
